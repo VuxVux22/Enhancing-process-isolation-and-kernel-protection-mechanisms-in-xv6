@@ -1,0 +1,2 @@
+# Enhancing-process-isolation-and-kernel-protection-mechanisms-in-xv6
+This plan aims to address security enhancements and optimize memory management for the open-source Xv6 operating system based on the RISC-V architecture. The core objective is to detect and prevent STRIDE-based security threats (such as spoofing and denial-of-service attacks on virtual memory) and improve RAM allocation efficiency
